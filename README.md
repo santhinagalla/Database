@@ -1,4 +1,4 @@
-# Database
+# Signature assignment project
 
 Design an EER schema for a database application that you are interested in. Specify all constraints that should hold on the database. Make sure that the schema has five entity types, four relationship types, a weak entity type, a superclass/subclass relationship, a category, and an n-ary (n > 2) relationship type.
 
